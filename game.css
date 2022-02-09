@@ -1,0 +1,17 @@
+body{
+  background-color: beige;
+}
+
+#question{
+  font-size: large;
+}
+
+#ansstring{
+  font-size: x-large;
+  font-style: oblique;
+  color: rgb(218, 77, 21);
+}
+
+button{
+  background-color: burlywood;
+}
